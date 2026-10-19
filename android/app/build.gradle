@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.example.nio"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
